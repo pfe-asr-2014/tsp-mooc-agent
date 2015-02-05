@@ -1,0 +1,3 @@
+server: "broker_1"
+filter: "POST"
+topic: "mooc/"
